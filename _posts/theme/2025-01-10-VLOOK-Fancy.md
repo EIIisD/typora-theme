@@ -21,7 +21,9 @@ typora-copy-images-to: ../../media/theme/vlook-fancy
 
 
 
-[**Explore more about Customized Themes ❯❯❯**](https://vlook-doc.pages.dev/vip)
+[**Explore more about Customized Themes ❯❯❯**](https://vlook-doc.pages.dev/vip-en)
+
+[**去探索更多定制主题的介绍 ❯❯❯**](https://vlook-doc.pages.dev/vip)
 
 
 
@@ -41,5 +43,7 @@ More personalized themes can also be flexibly customized according to your needs
 
 
 
-[**Explore more about Customized Themes ❯❯❯**](https://vlook-doc.pages.dev/vip)
+[**Explore more about Customized Themes ❯❯❯**](https://vlook-doc.pages.dev/vip-en)
+
+[**去探索更多定制主题的介绍 ❯❯❯**](https://vlook-doc.pages.dev/vip)
 
