@@ -54,7 +54,7 @@ GitHub: [EthanBao27](https://github.com/EthanBao27)
 
 ## Special Thanks
 
-- The Callouts styles are inherited from [Mdmdt Theme](https://theme.typora.io/theme/Mdmdt/), thanks for @cayxc for contributing such beautiful theme.
+- The Callouts styles are inherited from [Mdmdt Theme](https://theme.typora.io/theme/Mdmdt/), thanks to @cayxc for contributing such beautiful theme.
 
 ## Links
 
